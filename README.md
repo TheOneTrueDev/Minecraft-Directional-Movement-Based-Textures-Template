@@ -102,7 +102,7 @@ It leverages Minecraft’s **model predicate system** (`minecraft:condition` and
 
 ## 📌 License
 
-You may use this template freely. Attribution is appreciated but not required unless otherwise stated.
+You may use this template freely. Attribution is required unless otherwise stated.
 
 ---
 
