@@ -1,6 +1,3 @@
-# Minecraft-Directional-Movement-Based-Textures-Template
-
-
 # 🎮 Dev's Directional Movement Based Textures Template (Minecraft Resource Pack)
 
 This is a **template resource pack** for Minecraft that allows item textures to dynamically change based on **player key input** — such as movement keys or sneaking.  
